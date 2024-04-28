@@ -1,4 +1,4 @@
-# Coca-Cola-share-performance-prediction
+# Coca-Cola stock price performance prediction
 
 * The following sections are elaborated in this Jupyter notebook: 
 
